@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Recipe" parent="android:Theme.Material.Light.DarkActionBar">
+
+</style>
+    <style name="Theme.splashscreen" parent="android:Theme.Material.Light.NoActionBar">
+
+    </style>
+</resources>
